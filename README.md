@@ -15,7 +15,7 @@ Welcome to my portfolio repository for the **Google Developer Group On Campus (G
 
 ## Technical Stack & Tools
 
-* **Languages**: Python 3.12+
+* **Languages**: Python 3.14+
 * **Machine Learning & Analytics**: Scikit-Learn, NumPy, Pandas
 * **Visualization**: Seaborn, Matplotlib
 * **Environment & Version Control**: VS Code, Jupyter Notebooks, Git, Google Colab
@@ -28,5 +28,5 @@ To run any module locally on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/bagasapt-spec/gdgoc-ai-handson.git](https://github.com/bagasapt-spec/gdgoc-ai-handson.git)
+   git clone https://github.com/bagasapt-spec/gdgoc-ai-handson.git
    cd gdgoc-ai-handson
